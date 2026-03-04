@@ -10,7 +10,7 @@ I’m a **Junior Web Developer** based in **Gothenburg, Sweden** 🇸🇪. I rec
 ### 🛠 Skills & Technologies
 
 I have experience working with:
-**HTML** • **CSS** • **JavaScript** • **React** • **Express** • **React Native**
+**HTML** • **CSS** • **JavaScript** • **React** • **Express** • **MongoDB**• **Node.js**• **React Native** 
 
 ---
 
