@@ -19,7 +19,7 @@ I have experience working with:
 #### 🍸 [Cocktail Catalogue]
 A web application that helps users discover their next favorite drink. Built with **React** and integrated with a third-party API (TheCocktailDB.com) to fetch recipes dynamically.
 
-#### ☀️ [Mood Forecast App]
+#### ☀️ [CareCast Mood Forecast App]
 An intuitive app that provides a "mood forecast" by analyzing local weather data and user input. Developed using **React Native**, focusing on clean UI and seamless user experience.
 
 ---
